@@ -1,0 +1,9 @@
+IT311		Beginning Microsoft SQL Server 2012 Programming		500.00
+
+IT312		PHP Programming with MySql // Second edition		600.00
+
+IT313		Principles of  Information Security			550.00
+
+BS311		Successful Project Managment				400.00
+
+BS312		Effective Business Communication in Organisations	700.00
